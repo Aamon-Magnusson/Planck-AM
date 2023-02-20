@@ -76,6 +76,7 @@
   )
 
   (net 0 "")
+<<<<<<< HEAD
   (net 1 "unconnected-(U1-TX-Pad1)")
   (net 2 "unconnected-(U1-RX-Pad2)")
   (net 3 "unconnected-(U1-VCC-Pad21)")
@@ -4517,6 +4518,8 @@
       (rotate (xyz 0 0 0))
     )
   )
+=======
+>>>>>>> parent of b9a87de (Basic board layout)
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tstamp 052d5afc-4eb2-4c62-b472-72fae1024b31)
